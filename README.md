@@ -5,14 +5,14 @@ This repository contains code and analysis for the Module 22 Challenge, focusing
 The goal of this project is to leverage SparkSQL to perform detailed analysis on a dataset of home sales. The tasks involve creating temporary views, caching data for performance improvement, and partitioning data for efficient querying. The repository demonstrates various operations typical in a data analysis workflow using PySpark.
 
 # Requirements :hammer_and_wrench:
-Apache Spark
-PySpark
-Python 3.x
+- Apache Spark
+- PySpark
+- Python 3.x
 
 # Data :memo:
 The analysis is based on the home_sales_revised.csv file. The data includes various details about home sales such as the number of bedrooms, bathrooms, floors, square footage, and selling price.
 
-# Analysis 	:bar_chart:
+# Analysis 	:chart_with_upwards_trend:
 The analysis involves several key operations:
 
 1. Data Loading and View Creation: Load data into a Spark DataFrame and create a temporary view for querying.
