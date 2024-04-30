@@ -12,7 +12,7 @@ The goal of this project is to leverage SparkSQL to perform detailed analysis on
 # Data :memo:
 The analysis is based on the home_sales_revised.csv file. The data includes various details about home sales such as the number of bedrooms, bathrooms, floors, square footage, and selling price.
 
-# Analysis 	:chart_with_upwards_trend:
+# Analysis :chart_with_upwards_trend:
 The analysis involves several key operations:
 
 1. Data Loading and View Creation: Load data into a Spark DataFrame and create a temporary view for querying.
